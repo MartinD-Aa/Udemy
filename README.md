@@ -1,2 +1,2 @@
 # Udemy
-Collection udemy course stuff
+Collection of udemy course stuff
